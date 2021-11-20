@@ -25,3 +25,12 @@ Hoy en dia los datos son muy importantes, "Estan haciendo girar el mundo" es deb
 Si deseas contactarme con mi persona estoy activo en [Twitter](https://twitter.com/Briann74673953)
 
 !Proximamente: briannarteaga.com // En construcción. 
+
+
+## Skils
+[Cisco](https://img.shields.io/badge/Cisco-023e8a?style=for-the-badge$&logo=https://img.shields.io/badge/cisco-Network-blue)</br>
+<img alt="https://img.shields.io/badge/cisco-Network-blue" src="https://img.shields.io/github/downloads/Briannfern/Briannfern/total?label=Network&logo=Cisco&style=for-the-badge">
+
+[Cisco](https://img.shields.io/badge/cisco-Network-blue?style=for-the-badge$&logo=cisco-Network&logocolor=blue&labelcolor=e76f51</br>
+
+
