@@ -31,6 +31,3 @@ Si deseas contactarme con mi persona estoy activo en [Twitter](https://twitter.c
 [Cisco](https://img.shields.io/badge/Cisco-023e8a?style=for-the-badge$&logo=https://img.shields.io/badge/cisco-Network-blue)</br>
 <img alt="https://img.shields.io/badge/cisco-Network-blue" src="https://img.shields.io/github/downloads/Briannfern/Briannfern/total?label=Network&logo=Cisco&style=for-the-badge">
 
-[Cisco](https://img.shields.io/badge/cisco-Network-blue?style=for-the-badge$&logo=cisco-Network&logocolor=blue&labelcolor=e76f51</br>
-
-
