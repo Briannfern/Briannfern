@@ -30,4 +30,7 @@ Si deseas contactarme con mi persona estoy activo en [Twitter](https://twitter.c
 ## Skils
 [Cisco](https://img.shields.io/badge/Cisco-023e8a?style=for-the-badge$&logo=https://img.shields.io/badge/cisco-Network-blue)</br>
 <img alt="https://img.shields.io/badge/cisco-Network-blue" src="https://img.shields.io/github/downloads/Briannfern/Briannfern/total?label=Network&logo=Cisco&style=for-the-badge">
+</br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cbf6f47-75b2-4960-a784-1674a5328378/deploy-status)](https://app.netlify.com/sites/briannarteaga/deploys)
+
 
